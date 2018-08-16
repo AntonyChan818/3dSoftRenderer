@@ -1,2 +1,4 @@
 ﻿  3dSoftRenderer.cpp
+d:\3dsoftrenderer\3dsoftrenderer\3dsoftrenderer\3dsoftrenderer.cpp(65): warning C4101: “hdc”: 未引用的局部变量
+d:\3dsoftrenderer\3dsoftrenderer\3dsoftrenderer\3dsoftrenderer.cpp(66): warning C4101: “ps”: 未引用的局部变量
   3dSoftRenderer.vcxproj -> D:\3dSoftRenderer\3dSoftRenderer\Debug\3dSoftRenderer.exe
